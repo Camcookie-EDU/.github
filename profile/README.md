@@ -3,6 +3,10 @@
 
 Camcookie Website: [https://edu.camcookie.com/](https://edu.camcookie.com/)
 
+> [!IMPORTANT]
+> Camcookie EDU is under construction. \
+> You may run into errors.
+
 <!--
 
 **Here are some ideas to get you started:**
